@@ -1,0 +1,19 @@
+.contact{
+    background-image: url("/assets/store2.jpg");
+    background-size: cover;
+    height: 94.2vh;
+    color:white
+}
+.details h1{
+    font-size: 5em;
+}
+.details{
+    display: block;
+    padding-top: 180px;
+    justify-content: center;
+    text-align: center;
+}
+.details p{
+    margin-top: 50px;
+    font-size: 1.5em;
+}
