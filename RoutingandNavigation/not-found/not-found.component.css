@@ -1,0 +1,23 @@
+.not-found{
+    background-image: url("/assets/store2.jpg");
+    background-size: cover;
+    height: 100vh;
+    color:black;
+    padding-top: 180px;
+}
+.container{
+    text-align: center;
+}
+.container h1{
+    font-size: 6em;
+    color: white;
+}
+.container h2{
+    color: white;
+    font-size: 3.5em;
+}
+button{
+    margin-top: 50px;
+    padding: 10px 30px;
+    font-size: 1.2em;
+}

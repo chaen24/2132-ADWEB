@@ -1,0 +1,23 @@
+<div class="details">
+    <h1>Product Details</h1>
+    <div class="container">
+        <ul>
+            <h2>Product ID</h2>
+            <li *ngFor="let product of Products; let i = index">
+                {{product.id}}
+            </li>
+        </ul>
+        <ul>
+            <h2>Product Name</h2>
+            <li *ngFor="let product of Products; let i = index">
+                {{product.name}}
+            </li>
+        </ul>
+        <ul>
+            <h2>Product Description</h2>
+            <li *ngFor="let product of Products; let i = index">
+                {{product.description}}
+            </li>
+        </ul>
+    </div>
+</div>
