@@ -1,0 +1,19 @@
+.profile img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
+.about{
+    
+    display: flex;
+    margin-top: 50px;
+    font-family: Verdana;
+    margin-left: 70px;
+}
+.info{
+    margin-left: 100px;
+    margin-top: 15px;
+
+}

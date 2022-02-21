@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    margin-top: 70px;
+    font-family: Verdana;
+   
+
+}
+
+.Icon svg{
+    margin-left: 20px;
+}
+.left{
+    margin-left: 100px;
+}
+.right{
+    margin-left: 250px;
+}

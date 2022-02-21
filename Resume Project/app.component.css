@@ -1,0 +1,54 @@
+.about{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.out{
+  display: flex;
+  justify-content: center;
+}
+.navbar{
+  width: 100%;
+}
+.navbar-nav{
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill{
+    display: block;
+  margin-left: 100px;
+  width: 50%;
+}
+.contact{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.education{
+    display: block;
+  width: 50%;
+  margin-left: 50px;
+}
+body{
+  font-family: verdana;
+  background-image: url("../assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+.DNC{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  color: black;
+  text-align: center;
+}
+.flex1{
+  display: flex;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
