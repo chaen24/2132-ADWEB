@@ -1,0 +1,22 @@
+.home{
+    background-image: url("/assets/store2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 94.2vh;
+}
+.home h1{
+    color: white;
+    font-size: 10em;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+.home h3{
+    color: white;
+    font-size: 2em;
+    padding-top: 30px;
+    padding-left: 40px;
+    margin-top: 0;
+    letter-spacing: 10px;
+    word-spacing: 15px;
+}
