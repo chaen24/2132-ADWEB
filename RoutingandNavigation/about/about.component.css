@@ -1,0 +1,26 @@
+.about{
+    background-image: url("/assets/store2.jpg");
+    background-size: cover;
+    height: 94.2vh;
+}
+.container{
+    padding-top: 180px;
+    width: 50%;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    
+}
+.container h1{
+    font-size: 5em;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.container p{
+    font-size: 2em;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 50px;
+}
